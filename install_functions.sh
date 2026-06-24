@@ -1,3 +1,4 @@
+#!/bin/bash
 userid=$(id -u)
 
 #check root access or not
