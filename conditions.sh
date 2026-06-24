@@ -15,4 +15,4 @@ elif [ $number -eq 100]; then
     echo "given number $number is equal to 100"
 else
     echo "given number $number is less to 100"
-if
+fi 
