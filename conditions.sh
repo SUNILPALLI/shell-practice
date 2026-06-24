@@ -10,7 +10,7 @@ number=$1
 # le - less than or equal 
 
 if [ $number -gt 100 ]; then
-    echo "given number $number is greater to 100"
+echo "given number $number is greater to 100"
 elif [ $number -eq 100]; then
     echo "given number $number is equal to 100"
 else
