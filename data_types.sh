@@ -8,5 +8,5 @@ echo "sum is = $sum"
 #array
 parts=("eye" "head" "nose")
 echo "parts are : ${parts[@]}"
-echo "first part is : ${parts[1]}"
+echo "first part is : $parts[1]"
 echo "second part is : ${parts[2]}"
